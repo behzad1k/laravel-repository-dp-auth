@@ -1,4 +1,4 @@
-**Laravel repository design pattern with a rtl CMS by material dashboard ui** 
+**Laravel repository design pattern with a rtl CMS by material dashboard ui** <br>
 I added repository design pattern deployment along with access level.
 **Deployment**
 1.Pull the repo
